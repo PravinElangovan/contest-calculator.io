@@ -12,7 +12,7 @@ function calculate(num1, num2, operator) {
   } else if (operator === "/") {
     return num1 / num2;
   } else {
-    return "Invalid operator!";
+    return "null";
   }
 }
 
